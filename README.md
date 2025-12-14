@@ -18,4 +18,4 @@ Automate your LinkedIn posting with AI-powered content generation using CAMEL AI
 git clone <your-repo-url>
 cd linkedin-ai-automation
 
-pip install -r requirements.txt
+pip install -r requirements.txt# Linkedin_toolkitcamelProject
